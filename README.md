@@ -1,2 +1,3 @@
 # question-game
-Open console.
+
+A small console question game. Open console to see questions, input your answer. 
